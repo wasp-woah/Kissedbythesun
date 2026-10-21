@@ -29,9 +29,9 @@ $${DNI:}$$
 
 $${MAGA}$$
 
-$${(iwec) \space HASBINHOTEL \space FANS}$$
+$${HASBINHOTEL \space FANS}$$
 
-$${(iwec) \space HELAVABOSS \space FANS}$$
+$${HELAVABOSS \space FANS}$$
 
 $${HOMOPHOBIC \space PEOPLE}$$
 
