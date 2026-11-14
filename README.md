@@ -8,7 +8,7 @@ $${lauter \space als \space das \space letzte \space Mal"}$$
  
  
 $${Haii \space im \space jason, \space im \space a \space yumeshipper \space and \space kinnie!!}$$
-$${check \space my \space pronouns \space page}$$
+$${check \space my \space straw \space page}$$
 
 <p align="center">
 <img src="https://media.tenor.com/neRZrojlfIcAAAAi/divider-aesthetic.gif" alt="a black and white image of a striped pattern on a white background"/>
