@@ -1,8 +1,6 @@
 # wip
-$${"Liebe, \space so \space klingt \space Liebe}$$
-$${Leiser \space als \space normal, \space doch \space viel}$$
-$${lauter \space als \space das \space letzte \space Mal"}$$
- 
+$${"Vould \space you \space like}$$ 
+$${a \space second \space opinion? \space You \space are \space also \space ugly!"}$$
  
  
  
