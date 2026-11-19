@@ -12,7 +12,8 @@ $${check \space my \space straw \space page}$$
 
 
 <p align="center">
- <img width="531" height="376" <img width="1196" height="1144" alt="image" src="https://github.com/user-attachments/assets/dd7990c3-2166-4b50-88c6-8d4898c49473" />
+<img width="1158" height="826" alt="image" src="https://github.com/user-attachments/assets/e906182c-037a-4f08-8ffe-cdac072b5a3f" />
+
 
  
 
@@ -44,7 +45,8 @@ $${ANTI \space ABORTION}$$
 <img src="https://media.tenor.com/neRZrojlfIcAAAAi/divider-aesthetic.gif" alt="a black and white image of a striped pattern on a white background"/>
 
 <p align="center">
-<img src="https://media1.tenor.com/m/83jYPUAuQGYAAAAC/tf2-team-fortress-2.gif" alt="a couple of men are standing next to each other and kissing ."/>
+<img width="1199" height="831" alt="image" src="https://github.com/user-attachments/assets/75199d87-a256-44c1-93ac-bea46699926c" />
+
 
 <p align="center">
 <img src="https://media.tenor.com/neRZrojlfIcAAAAi/divider-aesthetic.gif" alt="a black and white image of a striped pattern on a white background"/>
