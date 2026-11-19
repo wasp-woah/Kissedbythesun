@@ -1,6 +1,5 @@
 # wip
-$${"Vould \space you \space like}$$ 
-$${a \space second \space opinion? \space You \space are \space also \space ugly!"}$$
+$${"box \space head!"}$$
  
  
  
